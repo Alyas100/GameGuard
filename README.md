@@ -11,6 +11,12 @@ The project is built as a full-stack application with:
 - Background jobs for report scoring and game-score aggregation
 - Optional image uploads for report evidence
 
+## Demo
+
+The following mobile demo shows the GameGuard user flow, including the parent dashboard, game browsing, settings, language selection, and report features.
+
+![GameGuard mobile demo](./project%20gif.gif)
+
 ## Features
 
 - Account registration and login

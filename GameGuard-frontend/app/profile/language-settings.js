@@ -1,7 +1,6 @@
 import { Ionicons } from '@expo/vector-icons'; // Used for the back and forward arrows
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { useFocusEffect } from '@react-navigation/native';
-import { Stack, router } from 'expo-router';
+import { Stack, router, useFocusEffect } from 'expo-router';
 import { useCallback, useState } from 'react';
 import { useTranslation } from 'react-i18next'; // To display current language
 import {

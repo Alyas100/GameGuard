@@ -86,7 +86,7 @@ export default function ProfileScreen() {
                     icon="language-outline"
                     text="Language"
                     subtext={i18n.language === 'en' ? 'English' : 'Bahasa Melayu'} // Show current status
-                    onPress={() => router.push('profile/language-settings')} // New target page
+                    onPress={() => router.push('/profile/language-settings')} // New target page
                 />
                 <View style={styles.menuButton}>
                     <Ionicons name="notifications-outline" size={24} color="#6B7280" style={styles.menuIcon} />
