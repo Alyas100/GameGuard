@@ -1,0 +1,30 @@
+{
+    "translation": {
+        "dashboard": {
+            "greeting": "Hello,",
+            "searchPlaceholder": "Search games...",
+            "searchButton": "Search",
+            "gamesMonitored": "Games Monitored",
+            "reportsSubmitted": "Reports Submitted",
+            "highRiskGames": "High Risk Games",
+            "trendingAlerts": "Trending Alerts",
+            "seeAll": "See All",
+            "recentReports": "Recent Reports",
+            "viewAll": "View All",
+            "viewFullReport": "View Full Report →",
+            "quickActions": "Quick Actions",
+            "searchGames": "Search Games",
+            "submitReport": "Submit Report",
+            "compareGames": "Compare Games",
+            "viewAnalytics": "View Analytics",
+            "islamicFilterTitle": "Islamic Content Filter",
+            "islamicFilterSubtitle": "View only Shariah-compliant games"
+        },
+        "tabs": {
+            "home": "Home",
+            "browse": "Browse",
+            "report": "Report",
+            "profile": "Profile"
+        }
+    }
+}
